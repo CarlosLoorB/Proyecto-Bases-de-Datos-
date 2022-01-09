@@ -4,6 +4,21 @@ INSERT INTO PACIENTE VALUES ('alanvillav','Alan','Villavicencio','0987654322','2
 INSERT INTO PACIENTE VALUES ('carlosloor','Carlos','Loor','0987654323','2001-12-12','Soltero','carlosloor@espol.edu.ec','clave125');
 INSERT INTO PACIENTE VALUES ('zargame','Ricardo','Zaruma','0987654324','2002-01-01','Soltero','zargame@espol.edu.ec','clave126');
 INSERT INTO PACIENTE VALUES ('jagarces','Jose','Garces','0987654325','2003-02-02','Soltero','jagarces@espol.edu.ec','clave127');
+INSERT INTO PACIENTE VALUES ('giunvein','Giuliana','Navarrete','0945783567','2000-09-18','Casado','giunvein@espol.edu.ec','clave128');
+INSERT INTO PACIENTE VALUES ('esinti','Esthela','Veintimilla','0965893765','1998-05-21','Soltero','esinti@espol.edu.ec','clave129');
+INSERT INTO PACIENTE VALUES ('mecal','Melissa','Calderon','0949371529','2002-04-12','Soltero','mecal@espol.edu.ec','clave130');
+INSERT INTO PACIENTE VALUES ('ianvilla','Ian','Villacis','0968325790','2000-08-07','Soltero','ianvilla@espol.edu.ec','clave131');
+INSERT INTO PACIENTE VALUES ('josper','Jose','Perez','0950347826','1999-01-26','Soltero','josper@espol.edu.ec','clave132');
+INSERT INTO PACIENTE VALUES ('camneva','Camila','Nevarez','0923154907','2001-07-25','Soltero','camneva@espol.edu.ec','clave133');
+INSERT INTO PACIENTE VALUES ('danfra','Daniel','Franco','0998532095','2000-06-11','Soltero','danfra@espol.edu.ec','clave134');
+INSERT INTO PACIENTE VALUES ('ethago','Ethan','Hago','0943526758','2004-04-14','Soltero','ethago@espol.edu.ec','clave135');
+INSERT INTO PACIENTE VALUES ('leocab','Leonel','Cabrera','09','2002-02-25','Soltero','leocab@espol.edu.ec','clave136');
+INSERT INTO PACIENTE VALUES ('fersal','Fernando','Saltos','0997538205','2001-10-13','Soltero','fersal@espol.edu.ec','clave137');
+INSERT INTO PACIENTE VALUES ('sebamp','Sebastian','Ampuero','0922367745','2000-02-20','Soltero','sebamp@espol.edu.ec','clave138');
+INSERT INTO PACIENTE VALUES ('milop','Michelle','Lopez','0933265789','2000-06-23','Soltero','milop@espol.edu.ec','clave139');
+INSERT INTO PACIENTE VALUES ('diesos','Diego','Sosa','0923143564','2001-01-13','Soltero','diesos@espol.edu.ec','clave140');
+INSERT INTO PACIENTE VALUES ('jospan','Jose','Panchana','0934564527','2001-02-24','Soltero','jospan@espol.edu.ec','clave141');
+INSERT INTO PACIENTE VALUES ('jowu','Jhon','Wu','0921745689','2002-04-30','Soltero','jowu@espol.edu.ec','clave142');
 
 INSERT INTO ESPECIALISTA VALUES(12345678, 'CLAVE1',		'ESP1',	 TRUE, 123456789,	'ESP1@GMAIL.COM','NOMBREESP1','APELLIDOESP1'); 
 INSERT INTO ESPECIALISTA VALUES(12345671, 'CLAVE2',		'ESP2',	 TRUE, 987654321,	'ESP2@GMAIL.COM','NOMBREESP2','APELLIDOESP2');
