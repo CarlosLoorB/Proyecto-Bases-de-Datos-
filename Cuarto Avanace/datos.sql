@@ -62,11 +62,26 @@ INSERT INTO CITA VALUES (5353, "transtorno obsesivo-compulsivo", "74", "2021-08-
 INSERT INTO CITA VALUES (1010, "trastorno por estrés postraumático.", "43", "2021-07-04 18:40:24", true, "jospan", 12345672);
 INSERT INTO CITA VALUES (8383, "ansiedad", "21", "2021-08-06 19:20:24", true, "jowu", 12345678);
 
-INSERT INTO RESENA VALUES (0235671, "ME GUSTO LA CITA", 10, "alanvillav", 12345671, 2323);
-INSERT INTO RESENA VALUES (0235672, "Muy agradable sujeto", 10, "alanvillav", 12345672, 2323);
-INSERT INTO RESENA VALUES (0235673, "Doctor muy gentil", 10, "alanvillav", 12345673, 3454);
-INSERT INTO RESENA VALUES (0235674, "El doctor me escucha siempre", 10, "alanvillav", 12345674, 2323);
-INSERT INTO RESENA VALUES (0235675, "Me llamo inestable", 5, "alanvillav", 12345672, 6767);
+INSERT INTO RESENA VALUES (0235671, "Me gusto la cita", 10, "alanvillav", 12345673, 6767);
+INSERT INTO RESENA VALUES (0235672, "Muy agradable sujeto", 10, "john_v10", 12345671, 4242);
+INSERT INTO RESENA VALUES (0235673, "Doctor muy gentil", 10, "carlosloor", 12345672, 5454);
+INSERT INTO RESENA VALUES (0235674, "El doctor me escucha siempre", 10, "giunvein", 12345674, 3434);
+INSERT INTO RESENA VALUES (0235675, "Me llamo inestable", 5, "jagarces", 12345674, 4545);
+INSERT INTO RESENA VALUES (0235676, "Fue muy profesional", 9, "zargame", 12345671, 2323);
+INSERT INTO RESENA VALUES (0235677, "Me trato bien", 9, "esinti", 12345675, 8989);
+INSERT INTO RESENA VALUES (0235678, "Se nota que conoce del tema", 9, "mecal", 12345675, 6565);
+INSERT INTO RESENA VALUES (0235679, "Lo recomiendo mucho", 10, "ianvilla", 12345676, 1212);
+INSERT INTO RESENA VALUES (0235610, "No me gusto su actitud", 6, "josper", 12345674, 2121);
+INSERT INTO RESENA VALUES (0235611, "Me ayudo mucho hablar con el", 9, "camneva", 12345680, 3636);
+INSERT INTO RESENA VALUES (0235612, "Es bueno escuchando", 10, "danfra", 12345674, 7878);
+INSERT INTO RESENA VALUES (0235613, "Me trato mal", 3, "ethago", 12345681, 9595);
+INSERT INTO RESENA VALUES (0235614, "Es muy buena persona", 10, "leocab", 12345677, 6262);
+INSERT INTO RESENA VALUES (0235615, "Hizo comentarios innecesarios", 4, "fersal", 12345678, 2222);
+INSERT INTO RESENA VALUES (0235616, "Me ayudo mucho hablarle", 9, "sebamp", 12345685, 1717);
+INSERT INTO RESENA VALUES (0235617, "Me entendio perfectamente", 10, "milop", 12345671, 0202);
+INSERT INTO RESENA VALUES (0235618, "Me gusto la cita", 8, "diesos", 12345690, 5353);
+INSERT INTO RESENA VALUES (0235619, "Tratare de realizar mas citas con el", 9, "jospan", 12345672, 1010);
+INSERT INTO RESENA VALUES (0235620, "Excelente profesional", 10, "jowu", 12345678, 8383);
 
 INSERT INTO DIARIO VALUES (1231, "ZARGAME", 12345678);
 INSERT INTO DIARIO VALUES (1232, "alanvillav", 12345671);
