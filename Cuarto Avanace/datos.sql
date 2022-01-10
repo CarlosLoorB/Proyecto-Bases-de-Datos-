@@ -41,11 +41,26 @@ INSERT INTO ESPECIALISTA VALUES(12345688, 'CLAVE18','ESP18',TRUE, 987654317,'ESP
 INSERT INTO ESPECIALISTA VALUES(12345689, 'CLAVE19','ESP19',FALSE, 987654318,'ESP19@GMAIL.COM','NOMBREESP19','APELLIDOESP19');
 INSERT INTO ESPECIALISTA VALUES(12345690, 'CLAVE20','ESP20',FALSE, 987654319,'ESP20@GMAIL.COM','NOMBREESP20','APELLIDOESP20');
 
-INSERT INTO CITA VALUES (2323, "PARACETAMOL", "34", "2021-12-03 12:30:24", true, "ZARGAME", 12345678);
-INSERT INTO CITA VALUES (4242, "IBUPOFRENO", "45", "2021-9-06 12:30:25", false, "alanvillav", 12345671);
-INSERT INTO CITA VALUES (3454, "AMOXICILINA", "67", "2021-06-03 12:30:26", true, "carlosloor", 12345672);
-INSERT INTO CITA VALUES (6767, "DIGERIL", "89", "2021-12-03 19:30:24", false, "alanvillav", 12345673);
-INSERT INTO CITA VALUES (4532, "PARACETAMOL", "23", "2021-08-07 19:20:24", true, "jagarces", 12345674);
+INSERT INTO CITA VALUES (2323, "ansiedad", "34", "2021-12-03 12:30:24", true, "zargame", 12345671);
+INSERT INTO CITA VALUES (4242, "depresion", "45", "2021-9-06 13:30:25", false, "alanvillav", 12345671);
+INSERT INTO CITA VALUES (5454, "depresion", "67", "2021-06-03 9:30:26", true, "carlosloor", 12345672);
+INSERT INTO CITA VALUES (6767, "ansiedad", "89", "2021-12-03 10:30:24", false, "alanvillav", 12345673);
+INSERT INTO CITA VALUES (4545, "transtorno obsesivo-compulsivo", "23", "2021-08-13 19:00:24", true, "jagarces", 12345674);
+INSERT INTO CITA VALUES (3434, "ansiedad", "45", "2021-05-24 18:20:24", true, "giunvein", 12345674);
+INSERT INTO CITA VALUES (8989, "trastorno por estrés postraumático.", "12", "2021-07-12 16:20:24", false, "esinti", 12345675);
+INSERT INTO CITA VALUES (6565, "depresion", "46", "2021-06-30 15:50:24", true, "mecal", 12345675);
+INSERT INTO CITA VALUES (1212, "trastorno por déficit de atención e hiperactividad (TDAH)", "87", "2021-10-14 12:00:24", false, "ianvilla", 12345676);
+INSERT INTO CITA VALUES (2121, "transtorno obsesivo-compulsivo", "34", "2021-10-21 14:00:24", true, "josper", 12345674);
+INSERT INTO CITA VALUES (3636, "trastorno por déficit de atención e hiperactividad (TDAH)", "25", "2021-09-23 15:30:24", true, "camneva", 12345680);
+INSERT INTO CITA VALUES (7878, "trastorno por estrés postraumático.", "65", "2021-11-27 13:10:24", true, "danfra", 12345674);
+INSERT INTO CITA VALUES (9595, "depresion", "23", "2021-09-29 09:50:24", false, "ethago", 12345681);
+INSERT INTO CITA VALUES (6262, "ansiedad", "35", "2021-12-15 10:00:24", true, "leocab", 12345677);
+INSERT INTO CITA VALUES (2222, "transtorno obsesivo-compulsivo", "54", "2021-10-17 08:30:24", true, "fersal", 12345678);
+INSERT INTO CITA VALUES (1717, "ansiedad", "36", "2021-07-13 13:20:24", false, "sebamp", 12345685);
+INSERT INTO CITA VALUES (0202, "depresion", "51", "2021-08-15 14:20:24", true, "milop", 12345671);
+INSERT INTO CITA VALUES (5353, "transtorno obsesivo-compulsivo", "74", "2021-08-16 16:30:24", false, "diesos", 12345690);
+INSERT INTO CITA VALUES (1010, "trastorno por estrés postraumático.", "43", "2021-07-04 18:40:24", true, "jospan", 12345672);
+INSERT INTO CITA VALUES (8383, "ansiedad", "21", "2021-08-06 19:20:24", true, "jowu", 12345678);
 
 INSERT INTO RESENA VALUES (0235671, "ME GUSTO LA CITA", 10, "alanvillav", 12345671, 2323);
 INSERT INTO RESENA VALUES (0235672, "Muy agradable sujeto", 10, "alanvillav", 12345672, 2323);
